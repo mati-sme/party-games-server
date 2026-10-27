@@ -3,3 +3,10 @@ node_modules/
 dist/
 .wrangler/
 .dev.vars
+cf-worker/node_modules/
+cf-worker/deploy-payload.json
+cf-worker/mcp-deploy-code.js
+cf-worker/READY
+*.token
+.env
+.env.*
