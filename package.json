@@ -1,0 +1,17 @@
+{
+  "name": "party-games-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Authoritative PartyKit rooms for Pass the Boom + Quiet Courier",
+  "scripts": {
+    "dev": "partykit dev",
+    "deploy": "partykit deploy",
+    "login": "partykit login"
+  },
+  "dependencies": {
+    "partysocket": "^1.1.6"
+  },
+  "devDependencies": {
+    "partykit": "^0.0.115"
+  }
+}
